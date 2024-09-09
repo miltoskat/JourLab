@@ -1,0 +1,2 @@
+# JourLab
+Collaborative Journal
